@@ -46,7 +46,7 @@
 52.216.25.84                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.133              media.githubusercontent.com
 
-# Please Star : https://github.com/coderluojust/github-hosts
+# Please Star: https://github.com/coderluojust/github-hosts
 # Update at: 2021-04-27 20:20:17
 
 # GitHub Host End
@@ -115,9 +115,15 @@ ipconfig /flushdns
 - URL：[https://cdn.jsdelivr.net/gh/coderluojust/github-hosts/hosts](https://cdn.jsdelivr.net/gh/coderluojust/github-hosts/hosts)
 - 自动刷新：1小时
 
+<img src="https://cdn.jsdelivr.net/gh/coderluojust/pic-bed@master/img/20210428221655.png" style="zoom: 50%;" />
+
 这样你就可以定时获取最新的 `hosts` 了，再也不用担心 `github` 无法访问，图片加载不了了。
 
-<img src="https://cdn.jsdelivr.net/gh/coderluojust/pic-bed@master/img/20210428221655.png" style="zoom: 50%;" />
+> PS：记着不要忘记点击侧边栏的开关哦～～
+
+<img src="https://cdn.jsdelivr.net/gh/coderluojust/pic-bed@master/img/20210428223116.png" alt="image-20210428223111467" style="zoom:50%;" />
+
+
 
 **如果对你有用，不妨 `star` 一下可好。**
 
