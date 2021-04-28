@@ -1,4 +1,4 @@
-# GitHub 访问速度慢，图片无法加载？一劳永逸的解决方法
+# Github 访问速度慢，图片无法加载？一劳永逸的解决方法
 
 不知道从什么时候我访问github就无法展示图片了，而且有时候（尤其晚上）打开网页速度慢,这个项目就是为了一劳永逸的解决问题.
 
@@ -112,11 +112,12 @@ ipconfig /flushdns
 
 - Hosts类型：远程
 - Hosts标题：github-hosts（自定义即可）
-- URL：https://cdn.jsdelivr.net/gh/ineo6/hosts/hosts
+- URL：[https://cdn.jsdelivr.net/gh/coderluojust/github-hosts/hosts](https://cdn.jsdelivr.net/gh/coderluojust/github-hosts/hosts)
 - 自动刷新：1小时
 
 这样你就可以定时获取最新的 `hosts` 了，再也不用担心 `github` 无法访问，图片加载不了了。
 
-
+<img src="https://cdn.jsdelivr.net/gh/coderluojust/pic-bed@master/img/20210428221655.png" style="zoom: 50%;" />
 
 **如果对你有用，不妨 `star` 一下可好。**
+
