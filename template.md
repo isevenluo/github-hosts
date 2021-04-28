@@ -14,7 +14,7 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2021年4月28日
+内容定时更新，最近更新时间：2021-04-27 20:20:17。
 
 ```javascript
 # GitHub Host Start
@@ -26,8 +26,8 @@
 185.199.108.133              camo.githubusercontent.com
 185.199.108.133              github.map.fastly.net
 199.232.69.194               github.global.ssl.fastly.net
-140.82.113.4                 gist.github.com
-140.82.113.5                 api.github.com
+140.82.114.4                 gist.github.com
+140.82.112.5                 api.github.com
 185.199.108.133              raw.githubusercontent.com
 185.199.108.133              user-images.githubusercontent.com
 185.199.108.133              favicons.githubusercontent.com
@@ -39,7 +39,7 @@
 185.199.108.133              avatars0.githubusercontent.com
 185.199.108.133              avatars.githubusercontent.com
 140.82.114.10                codeload.github.com
-52.217.89.140                github-cloud.s3.amazonaws.com
+52.217.15.180                github-cloud.s3.amazonaws.com
 52.217.89.236                github-com.s3.amazonaws.com
 52.217.83.60                 github-production-release-asset-2e65be.s3.amazonaws.com
 52.217.194.153               github-production-user-asset-6210df.s3.amazonaws.com
@@ -47,7 +47,7 @@
 185.199.108.133              media.githubusercontent.com
 
 # Please Star : https://github.com/coderluojust/github-hosts
-# Update at: 2021年4月28日
+# Update at: 2021-04-27 20:20:17
 
 # GitHub Host End
 ```

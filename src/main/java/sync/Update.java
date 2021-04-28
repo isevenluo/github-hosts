@@ -12,6 +12,7 @@ public class Update {
 
     private static String filePath = "/Users/sevenluo/IdeaProjects/github-hosts/README.md";
     private static String hostsPath = "/Users/sevenluo/IdeaProjects/github-hosts/hosts";
+    private static String templatePath = "/Users/sevenluo/IdeaProjects/github-hosts/template.md";
 
     public static void main(String[] args) throws Exception {
 
@@ -25,7 +26,7 @@ public class Update {
 
         System.out.println(response.body());
         String content = response.body().substring(0,response.body().indexOf("#",2));
-        String fileContent = readFileContent(content);
+        String fileContent = readFileContent(templatePath, content);
         writeFile(filePath, fileContent);
         writeFile(hostsPath,getHostsContent(content));
     }
@@ -41,7 +42,7 @@ public class Update {
         return bufAll.toString();
     }
 
-    public static String readFileContent(String content) {
+    public static String readFileContent(String filePath, String content) {
         BufferedReader br = null;
         String line;
         //保存修改过后的所有内容，不断增加
