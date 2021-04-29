@@ -6,7 +6,7 @@
 
 本项目会实时更新最新的 `hosts` , 你不用在每次去网上找那些可能已经过期的，所以给个 `star` 不迷路。
 
-- 站点地址：[https://github.com/sevenluocloud/github-hosts](https://github.com/sevenluocloud/github-hosts)
+- 站点地址：[https://github.com/isevenluo/github-hosts](https://github.com/isevenluo/github-hosts)
 
 
 
@@ -14,7 +14,7 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2021年4月29日 下午7:58:39
+内容定时更新，最近更新时间：2021年4月29日 下午8:03:46
 
 ```javascript
 # GitHub Host Start
@@ -46,8 +46,8 @@
 52.216.109.147               github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.133              media.githubusercontent.com
 
-# Please Star: https://github.com/sevenluocloud/github-hosts
-# Update at: 2021年4月29日 下午7:58:39
+# Please Star: https://github.com/isevenluo/github-hosts
+# Update at: 2021年4月29日 下午8:03:46
 
 # GitHub Host End
 ```
@@ -100,7 +100,7 @@ ipconfig /flushdns
 
 放一张软件的截图，还是很简约好用的。
 
-<img src="https://cdn.jsdelivr.net/gh/coderluojust/pic-bed@master/img/20210428201021.png" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/isevenluo/pic-bed@master/img/20210428201021.png" style="zoom:50%;" />
 
 这款软件支持 `Windwos` 和 `macOS` 系统，使用方式时一样的。
 
@@ -112,16 +112,16 @@ ipconfig /flushdns
 
 - Hosts类型：远程
 - Hosts标题：github-hosts（自定义即可）
-- URL：[https://cdn.jsdelivr.net/gh/sevenluocloud/github-hosts/hosts](https://cdn.jsdelivr.net/gh/sevenluocloud/github-hosts/hosts)
+- URL：[https://cdn.jsdelivr.net/gh/isevenluo/github-hosts/hosts](https://cdn.jsdelivr.net/gh/isevenluo/github-hosts/hosts)
 - 自动刷新：1小时
 
-<img src="https://cdn.jsdelivr.net/gh/coderluojust/pic-bed@master/img/20210428221655.png" style="zoom: 50%;" />
+<img src="https://cdn.jsdelivr.net/gh/isevenluo/pic-bed@master/img/20210428221655.png" style="zoom: 50%;" />
 
 这样你就可以定时获取最新的 `hosts` 了，再也不用担心 `github` 无法访问，图片加载不了了。
 
 > PS：记着不要忘记点击侧边栏的开关哦～～
 
-<img src="https://cdn.jsdelivr.net/gh/coderluojust/pic-bed@master/img/20210428223116.png" alt="image-20210428223111467" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/isevenluo/pic-bed@master/img/20210428223116.png" alt="image-20210428223111467" style="zoom:50%;" />
 
 
 
