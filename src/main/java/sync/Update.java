@@ -10,9 +10,9 @@ import java.util.Date;
 
 public class Update {
 
-    private static String filePath = "/Users/sevenluo/IdeaProjects/github-hosts/README.md";
-    private static String hostsPath = "/Users/sevenluo/IdeaProjects/github-hosts/hosts";
-    private static String templatePath = "/Users/sevenluo/IdeaProjects/github-hosts/template.md";
+    private static String filePath = System.getProperty("user.dir") + "/README.md";
+    private static String hostsPath = System.getProperty("user.dir") + "/hosts";
+    private static String templatePath = System.getProperty("user.dir") + "/template.md";
 
     public static void main(String[] args) throws Exception {
 

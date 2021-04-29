@@ -1,4 +1,4 @@
-# Github 访问速度慢，图片无法加载？一劳永逸的解决方法
+# GitHub 访问速度慢，图片无法加载？一劳永逸的解决方法
 
 不知道从什么时候我访问github就无法展示图片了，而且有时候（尤其晚上）打开网页速度慢,这个项目就是为了一劳永逸的解决问题.
 
@@ -6,7 +6,7 @@
 
 本项目会实时更新最新的 `hosts` , 你不用在每次去网上找那些可能已经过期的，所以给个 `star` 不迷路。
 
-- 站点地址：[https://github.com/coderluojust/github-hosts](https://github.com/coderluojust/github-hosts)
+- 站点地址：[https://github.com/sevenluocloud/github-hosts](https://github.com/sevenluocloud/github-hosts)
 
 
 
@@ -46,7 +46,7 @@
 52.216.25.84                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.133              media.githubusercontent.com
 
-# Please Star: https://github.com/coderluojust/github-hosts
+# Please Star: https://github.com/sevenluocloud/github-hosts
 # Update at: 2021-04-27 20:20:17
 
 # GitHub Host End
@@ -62,9 +62,9 @@
 
 1. ##### 首先，打开（访达）Finder。
 
-2. ##### 使用组合键`Shift+Command+G`打开"前往文件夹"，输入框中输入`/etc/hosts`。
+2. ##### 使用组合键 `Shift+Command+G` 打开"前往文件夹"，输入框中输入 `/etc/hosts`。
 
-3. ##### 然后就会跳转到`hosts`文件位置。
+3. ##### 然后就会跳转到 `hosts` 文件位置。
 
 > 注意：如果你使用`VS Code`，可以直接用`VS Code`修改和保存，不需要复制文件。
 
@@ -112,7 +112,7 @@ ipconfig /flushdns
 
 - Hosts类型：远程
 - Hosts标题：github-hosts（自定义即可）
-- URL：[https://cdn.jsdelivr.net/gh/coderluojust/github-hosts/hosts](https://cdn.jsdelivr.net/gh/coderluojust/github-hosts/hosts)
+- URL：[https://cdn.jsdelivr.net/gh/sevenluocloud/github-hosts/hosts](https://cdn.jsdelivr.net/gh/sevenluocloud/github-hosts/hosts)
 - 自动刷新：1小时
 
 <img src="https://cdn.jsdelivr.net/gh/coderluojust/pic-bed@master/img/20210428221655.png" style="zoom: 50%;" />
