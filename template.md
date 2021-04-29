@@ -1,7 +1,6 @@
 
 # <p align="center">GitHub 访问速度慢，图片无法加载？一劳永逸的解决方法
 
----
  
 ![GitHub top language](https://img.shields.io/github/languages/top/isevenluo/github-hosts)
 [![](https://img.shields.io/badge/知乎-@isevenluo-red.svg)](https://www.travis-ci.org/isevenluo/github-hosts)
