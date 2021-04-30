@@ -3,7 +3,7 @@
 
  
 ![GitHub top language](https://img.shields.io/github/languages/top/isevenluo/github-hosts)
-[![](https://img.shields.io/badge/知乎-@isevenluo-red.svg)](https://www.travis-ci.org/isevenluo/github-hosts)
+[![](https://img.shields.io/badge/知乎-@isevenluo-red.svg)](https://www.zhihu.com/people/ccgogoing)
 ![](https://img.shields.io/badge/language-@java-green.svg?style=plastic)
 [![](https://img.shields.io/badge/content-@github-blue.svg?style=plastic)](https://github.com/isevenluo/github-hosts)
 [![](https://img.shields.io/badge/title-@hosts-ff69b4.svg?style=plastic)](https://github.com/isevenluo/github-hosts)
@@ -23,7 +23,7 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2021年4月30日 下午11:16:19
+内容定时更新，最近更新时间：2021年4月30日 下午11:21:25
 
 ```javascript
 # GitHub Host Start
@@ -56,7 +56,7 @@
 185.199.108.133              media.githubusercontent.com
 
 # Please Star: https://github.com/isevenluo/github-hosts
-# Update at: 2021年4月30日 下午11:16:19
+# Update at: 2021年4月30日 下午11:21:25
 
 # GitHub Host End
 ```

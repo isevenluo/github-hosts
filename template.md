@@ -3,7 +3,7 @@
 
  
 ![GitHub top language](https://img.shields.io/github/languages/top/isevenluo/github-hosts)
-[![](https://img.shields.io/badge/知乎-@isevenluo-red.svg)](https://www.travis-ci.org/isevenluo/github-hosts)
+[![](https://img.shields.io/badge/知乎-@isevenluo-red.svg)](https://www.zhihu.com/people/ccgogoing)
 ![](https://img.shields.io/badge/language-@java-green.svg?style=plastic)
 [![](https://img.shields.io/badge/content-@github-blue.svg?style=plastic)](https://github.com/isevenluo/github-hosts)
 [![](https://img.shields.io/badge/title-@hosts-ff69b4.svg?style=plastic)](https://github.com/isevenluo/github-hosts)
