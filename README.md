@@ -23,7 +23,7 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2021年5月1日 下午8:35:27
+内容定时更新，最近更新时间：2021年5月2日 下午4:04:49
 
 ```javascript
 # GitHub Host Start
@@ -35,8 +35,8 @@
 185.199.108.133              camo.githubusercontent.com
 185.199.108.133              github.map.fastly.net
 199.232.69.194               github.global.ssl.fastly.net
-140.82.114.3                 gist.github.com
-140.82.114.5                 api.github.com
+140.82.112.4                 gist.github.com
+140.82.112.5                 api.github.com
 185.199.108.133              raw.githubusercontent.com
 185.199.108.133              user-images.githubusercontent.com
 185.199.108.133              favicons.githubusercontent.com
@@ -47,16 +47,16 @@
 185.199.108.133              avatars1.githubusercontent.com
 185.199.108.133              avatars0.githubusercontent.com
 185.199.108.133              avatars.githubusercontent.com
-140.82.112.9                 codeload.github.com
-52.216.146.147               github-cloud.s3.amazonaws.com
-52.217.101.36                github-com.s3.amazonaws.com
-52.216.140.52                github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.232.163               github-production-user-asset-6210df.s3.amazonaws.com
-52.216.109.147               github-production-repository-file-5c1aeb.s3.amazonaws.com
+140.82.112.10                codeload.github.com
+52.217.81.28                 github-cloud.s3.amazonaws.com
+52.216.248.36                github-com.s3.amazonaws.com
+52.217.201.9                 github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.97.236                github-production-user-asset-6210df.s3.amazonaws.com
+52.217.104.244               github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.133              media.githubusercontent.com
 
 # Please Star: https://github.com/isevenluo/github-hosts
-# Update at: 2021年5月1日 下午8:35:27
+# Update at: 2021年5月2日 下午4:04:49
 
 # GitHub Host End
 ```
