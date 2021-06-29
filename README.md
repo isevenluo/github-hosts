@@ -23,7 +23,7 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2021年6月29日 下午10:32:12
+内容定时更新，最近更新时间：2021年6月30日 上午2:55:24
 
 ```javascript
 # GitHub Host Start
@@ -35,7 +35,7 @@
 185.199.108.133               camo.githubusercontent.com
 185.199.108.133               github.map.fastly.net
 199.232.69.194                github.global.ssl.fastly.net
-140.82.114.3                  gist.github.com
+140.82.112.3                  gist.github.com
 185.199.108.153               github.io
 140.82.113.4                  github.com
 140.82.112.5                  api.github.com
@@ -49,18 +49,18 @@
 185.199.108.133               avatars1.githubusercontent.com
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars.githubusercontent.com
-140.82.112.9                  codeload.github.com
-52.216.225.232                github-cloud.s3.amazonaws.com
-52.216.239.155                github-com.s3.amazonaws.com
+140.82.114.10                 codeload.github.com
+52.216.160.59                 github-cloud.s3.amazonaws.com
+52.217.45.44                  github-com.s3.amazonaws.com
 52.216.90.108                 github-production-release-asset-2e65be.s3.amazonaws.com
 52.217.15.68                  github-production-user-asset-6210df.s3.amazonaws.com
-52.216.92.139                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.103.12                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153               githubstatus.com
 64.71.168.201                 github.community
 185.199.108.133               media.githubusercontent.com
 
 # Please Star: https://github.com/isevenluo/github-hosts
-# Update at: 2021年6月29日 下午10:32:12
+# Update at: 2021年6月30日 上午2:55:24
 
 # GitHub Host End
 ```
