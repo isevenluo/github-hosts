@@ -16,7 +16,7 @@
 本项目会实时更新最新的 `hosts` , 你不用在每次去网上找那些可能已经过期的，所以给个 `star` 不迷路。
 
 - 站点地址：[https://github.com/isevenluo/github-hosts](https://github.com/isevenluo/github-hosts)
-
+- 国内备用站点：[https://gitee.com/isevenluo/github-hosts](https://gitee.com/isevenluo/github-hosts)
 
 
 ## 使用方法
@@ -56,6 +56,7 @@
 185.199.108.133              media.githubusercontent.com
 
 # Please Star: https://github.com/isevenluo/github-hosts
+# Please Star: https://gitee.com/isevenluo/github-hosts
 # Update at: 2021-04-27 20:20:17
 
 # GitHub Host End
@@ -121,7 +122,7 @@ ipconfig /flushdns
 
 - Hosts类型：远程
 - Hosts标题：github-hosts（自定义即可）
-- URL：[https://cdn.jsdelivr.net/gh/isevenluo/github-hosts/hosts](https://cdn.jsdelivr.net/gh/isevenluo/github-hosts/hosts)
+- URL：[https://gitee.com/isevenluo/github-hosts/blob/master/hosts](https://gitee.com/isevenluo/github-hosts/blob/master/hosts)
 - 自动刷新：1小时
 
 <img src="https://cdn.jsdelivr.net/gh/isevenluo/pic-bed@master/img/20210428221655.png" style="zoom: 50%;" />

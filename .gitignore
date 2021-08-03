@@ -25,7 +25,7 @@ hs_err_pid*
 .idea
 *.iml
 src/main/resources/config.properties
-target
+target/
 githubHosts.sh
 ./runLog
 ./template.md
