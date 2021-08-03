@@ -126,7 +126,7 @@ ipconfig /flushdns
 
 - Hosts类型：远程
 - Hosts标题：github-hosts（自定义即可）
-- URL：[https://gitee.com/isevenluo/github-hosts/raw/master/hosts](https://gitee.com/isevenluo/github-hosts/blob/master/hosts)
+- URL：[https://gitee.com/isevenluo/github-hosts/raw/master/hosts](https://gitee.com/isevenluo/github-hosts/raw/master/hosts)
 - 自动刷新：1小时
 
 <img src="https://cdn.jsdelivr.net/gh/isevenluo/pic-bed@master/img/20210428221655.png" style="zoom: 50%;" />
