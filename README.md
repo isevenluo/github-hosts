@@ -1,5 +1,5 @@
 
-# <p align="center">GitHub 访问速度慢，图片无法加载？一劳永逸的解决方法
+## GitHub 访问速度慢，图片无法加载？一劳永逸的解决方法
 
  
 ![GitHub top language](https://img.shields.io/github/languages/top/isevenluo/github-hosts)
@@ -23,7 +23,7 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2021年8月3日 上午8:37:18
+内容定时更新，最近更新时间：2021年8月3日 上午8:44:50
 
 ```javascript
 # GitHub Host Start
@@ -49,7 +49,7 @@
 185.199.108.133               avatars1.githubusercontent.com
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars.githubusercontent.com
-140.82.114.9                  codeload.github.com
+140.82.113.10                 codeload.github.com
 52.216.112.195                github-cloud.s3.amazonaws.com
 52.217.74.20                  github-com.s3.amazonaws.com
 52.217.0.11                   github-production-release-asset-2e65be.s3.amazonaws.com
@@ -61,7 +61,7 @@
 
 # Please Star: https://github.com/isevenluo/github-hosts
 # Please Star: https://gitee.com/isevenluo/github-hosts
-# Update at: 2021年8月3日 上午8:37:18
+# Update at: 2021年8月3日 上午8:44:50
 
 # GitHub Host End
 ```
