@@ -23,22 +23,22 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2021年9月1日 下午10:15:42
+内容定时更新，最近更新时间：2021年9月4日 下午9:02:31
 
 ```javascript
 # GitHub Host Start
 
 185.199.108.154               github.githubassets.com
-140.82.113.22                 central.github.com
+140.82.114.22                 central.github.com
 185.199.108.133               desktop.githubusercontent.com
 185.199.108.153               assets-cdn.github.com
 185.199.108.133               camo.githubusercontent.com
 185.199.108.133               github.map.fastly.net
 199.232.69.194                github.global.ssl.fastly.net
-140.82.113.3                  gist.github.com
+140.82.114.3                  gist.github.com
 185.199.108.153               github.io
-140.82.114.3                  github.com
-140.82.112.5                  api.github.com
+140.82.114.4                  github.com
+140.82.114.6                  api.github.com
 185.199.108.133               raw.githubusercontent.com
 185.199.108.133               user-images.githubusercontent.com
 185.199.108.133               favicons.githubusercontent.com
@@ -49,19 +49,19 @@
 185.199.108.133               avatars1.githubusercontent.com
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars.githubusercontent.com
-140.82.112.10                 codeload.github.com
-52.216.113.115                github-cloud.s3.amazonaws.com
-52.216.8.171                  github-com.s3.amazonaws.com
-52.217.64.60                  github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.72.76                  github-production-user-asset-6210df.s3.amazonaws.com
-52.217.138.17                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+140.82.114.9                  codeload.github.com
+52.216.185.44                 github-cloud.s3.amazonaws.com
+52.217.13.252                 github-com.s3.amazonaws.com
+52.217.100.148                github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.228.152                github-production-user-asset-6210df.s3.amazonaws.com
+52.217.39.164                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153               githubstatus.com
 64.71.144.202                 github.community
 185.199.108.133               media.githubusercontent.com
 
 # Please Star: https://github.com/isevenluo/github-hosts
 # Please Star: https://gitee.com/isevenluo/github-hosts
-# Update at: 2021年9月1日 下午10:15:42
+# Update at: 2021年9月4日 下午9:02:31
 
 # GitHub Host End
 ```
