@@ -23,13 +23,13 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2021年11月18日 上午7:39:50
+内容定时更新，最近更新时间：2021年11月19日 上午5:47:58
 
 ```javascript
 # GitHub Host Start
 
 185.199.108.154               github.githubassets.com
-140.82.114.22                 central.github.com
+140.82.112.21                 central.github.com
 185.199.108.133               desktop.githubusercontent.com
 185.199.108.153               assets-cdn.github.com
 185.199.108.133               camo.githubusercontent.com
@@ -37,7 +37,7 @@
 199.232.69.194                github.global.ssl.fastly.net
 140.82.112.3                  gist.github.com
 185.199.108.153               github.io
-140.82.112.3                  github.com
+140.82.114.4                  github.com
 140.82.113.6                  api.github.com
 185.199.108.133               raw.githubusercontent.com
 185.199.108.133               user-images.githubusercontent.com
@@ -49,19 +49,19 @@
 185.199.108.133               avatars1.githubusercontent.com
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars.githubusercontent.com
-140.82.113.9                  codeload.github.com
-52.216.89.116                 github-cloud.s3.amazonaws.com
-52.216.12.36                  github-com.s3.amazonaws.com
-52.216.250.252                github-production-release-asset-2e65be.s3.amazonaws.com
+140.82.112.10                 codeload.github.com
+52.217.49.132                 github-cloud.s3.amazonaws.com
+52.217.173.121                github-com.s3.amazonaws.com
+52.216.96.243                 github-production-release-asset-2e65be.s3.amazonaws.com
 52.217.174.129                github-production-user-asset-6210df.s3.amazonaws.com
-52.217.129.153                github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.143.172                github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153               githubstatus.com
 64.71.144.202                 github.community
 185.199.108.133               media.githubusercontent.com
 
 # Please Star: https://github.com/isevenluo/github-hosts
 # Please Star: https://gitee.com/isevenluo/github-hosts
-# Update at: 2021年11月18日 上午7:39:50
+# Update at: 2021年11月19日 上午5:47:58
 
 # GitHub Host End
 ```
