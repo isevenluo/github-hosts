@@ -23,7 +23,7 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2021年12月14日 上午5:53:42
+内容定时更新，最近更新时间：2021年12月14日 上午7:54:45
 
 ```javascript
 # GitHub Host Start
@@ -37,7 +37,7 @@
 199.232.69.194                github.global.ssl.fastly.net
 140.82.113.4                  gist.github.com
 185.199.108.153               github.io
-140.82.113.4                  github.com
+140.82.112.3                  github.com
 140.82.113.5                  api.github.com
 185.199.108.133               raw.githubusercontent.com
 185.199.108.133               user-images.githubusercontent.com
@@ -61,7 +61,7 @@
 
 # Please Star: https://github.com/isevenluo/github-hosts
 # Please Star: https://gitee.com/isevenluo/github-hosts
-# Update at: 2021年12月14日 上午5:53:42
+# Update at: 2021年12月14日 上午7:54:45
 
 # GitHub Host End
 ```
