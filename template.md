@@ -4,9 +4,8 @@
  
 ![GitHub top language](https://img.shields.io/github/languages/top/isevenluo/github-hosts)
 [![](https://img.shields.io/badge/知乎-@isevenluo-red.svg)](https://www.zhihu.com/people/ccgogoing)
-![](https://img.shields.io/badge/language-@java-green.svg?style=plastic)
-[![](https://img.shields.io/badge/content-@github-blue.svg?style=plastic)](https://github.com/isevenluo/github-hosts)
-[![](https://img.shields.io/badge/title-@hosts-ff69b4.svg?style=plastic)](https://github.com/isevenluo/github-hosts)
+[![](https://img.shields.io/badge/content-@hosts-blue.svg?style=plastic)](https://github.com/isevenluo/github-hosts)
+[![](https://img.shields.io/badge/视频教程-@小破站-ff69b4.svg?style=plastic)](https://www.bilibili.com/video/BV1364y127vw/)
 
 
 不知道从什么时候我访问github就无法展示图片了，而且有时候（尤其晚上）打开网页速度慢,这个项目就是为了一劳永逸的解决问题.

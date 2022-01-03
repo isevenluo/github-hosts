@@ -28,4 +28,3 @@ src/main/resources/config.properties
 target/
 githubHosts.sh
 ./runLog
-./template.md
