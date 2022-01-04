@@ -4,9 +4,8 @@
  
 ![GitHub top language](https://img.shields.io/github/languages/top/isevenluo/github-hosts)
 [![](https://img.shields.io/badge/知乎-@isevenluo-red.svg)](https://www.zhihu.com/people/ccgogoing)
-![](https://img.shields.io/badge/language-@java-green.svg?style=plastic)
-[![](https://img.shields.io/badge/content-@github-blue.svg?style=plastic)](https://github.com/isevenluo/github-hosts)
-[![](https://img.shields.io/badge/title-@hosts-ff69b4.svg?style=plastic)](https://github.com/isevenluo/github-hosts)
+[![](https://img.shields.io/badge/content-@hosts-blue.svg?style=plastic)](https://github.com/isevenluo/github-hosts)
+[![](https://img.shields.io/badge/视频教程-@小破站-ff69b4.svg?style=plastic)](https://www.bilibili.com/video/BV1364y127vw/)
 
 
 不知道从什么时候我访问github就无法展示图片了，而且有时候（尤其晚上）打开网页速度慢,这个项目就是为了一劳永逸的解决问题.
@@ -23,7 +22,7 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2022年1月3日 下午8:29:24
+内容定时更新，最近更新时间：2022年1月4日 下午8:48:55
 
 ```javascript
 # GitHub Host Start
@@ -35,10 +34,10 @@
 185.199.108.133               camo.githubusercontent.com
 185.199.108.133               github.map.fastly.net
 199.232.69.194                github.global.ssl.fastly.net
-140.82.113.4                  gist.github.com
+140.82.114.3                  gist.github.com
 185.199.108.153               github.io
-140.82.112.4                  github.com
-140.82.113.6                  api.github.com
+140.82.114.4                  github.com
+140.82.112.5                  api.github.com
 185.199.108.133               raw.githubusercontent.com
 185.199.108.133               user-images.githubusercontent.com
 185.199.108.133               favicons.githubusercontent.com
@@ -49,8 +48,8 @@
 185.199.108.133               avatars1.githubusercontent.com
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars.githubusercontent.com
-140.82.112.10                 codeload.github.com
-52.217.41.220                 github-cloud.s3.amazonaws.com
+140.82.114.10                 codeload.github.com
+52.216.137.212                github-cloud.s3.amazonaws.com
 52.217.95.25                  github-com.s3.amazonaws.com
 52.216.153.172                github-production-release-asset-2e65be.s3.amazonaws.com
 52.217.199.249                github-production-user-asset-6210df.s3.amazonaws.com
@@ -61,7 +60,7 @@
 
 # Please Star: https://github.com/isevenluo/github-hosts
 # Please Star: https://gitee.com/isevenluo/github-hosts
-# Update at: 2022年1月3日 下午8:29:24
+# Update at: 2022年1月4日 下午8:48:55
 
 # GitHub Host End
 ```
