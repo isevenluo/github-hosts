@@ -22,13 +22,13 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2022年1月10日 上午9:40:54
+内容定时更新，最近更新时间：2022年1月10日 下午8:49:18
 
 ```javascript
 # GitHub Host Start
 
 185.199.108.154               github.githubassets.com
-140.82.114.21                 central.github.com
+140.82.114.22                 central.github.com
 185.199.108.133               desktop.githubusercontent.com
 185.199.108.153               assets-cdn.github.com
 185.199.108.133               camo.githubusercontent.com
@@ -48,19 +48,19 @@
 185.199.108.133               avatars1.githubusercontent.com
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars.githubusercontent.com
-140.82.113.9                  codeload.github.com
-54.231.193.81                 github-cloud.s3.amazonaws.com
-52.217.168.49                 github-com.s3.amazonaws.com
-52.217.134.89                 github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.199.249                github-production-user-asset-6210df.s3.amazonaws.com
-52.217.200.1                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+140.82.114.9                  codeload.github.com
+54.231.82.10                  github-cloud.s3.amazonaws.com
+52.217.67.52                  github-com.s3.amazonaws.com
+54.231.138.97                 github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.145.99                 github-production-user-asset-6210df.s3.amazonaws.com
+52.217.75.180                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153               githubstatus.com
 64.71.144.202                 github.community
 185.199.108.133               media.githubusercontent.com
 
 # Please Star: https://github.com/isevenluo/github-hosts
 # Please Star: https://gitee.com/isevenluo/github-hosts
-# Update at: 2022年1月10日 上午9:40:54
+# Update at: 2022年1月10日 下午8:49:18
 
 # GitHub Host End
 ```
