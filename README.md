@@ -22,7 +22,7 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2022年3月25日 上午8:49:20
+内容定时更新，最近更新时间：2022年3月25日 下午1:59:06
 
 ```javascript
 # GitHub Host Start
@@ -34,10 +34,10 @@
 185.199.108.133               camo.githubusercontent.com
 185.199.108.133               github.map.fastly.net
 199.232.69.194                github.global.ssl.fastly.net
-140.82.114.3                  gist.github.com
+140.82.112.3                  gist.github.com
 185.199.108.153               github.io
 140.82.112.4                  github.com
-140.82.113.5                  api.github.com
+140.82.114.5                  api.github.com
 185.199.108.133               raw.githubusercontent.com
 185.199.108.133               user-images.githubusercontent.com
 185.199.108.133               favicons.githubusercontent.com
@@ -48,8 +48,8 @@
 185.199.108.133               avatars1.githubusercontent.com
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars.githubusercontent.com
-140.82.114.10                 codeload.github.com
-52.217.168.105                github-cloud.s3.amazonaws.com
+140.82.113.9                  codeload.github.com
+52.217.234.209                github-cloud.s3.amazonaws.com
 52.216.9.155                  github-com.s3.amazonaws.com
 52.217.223.25                 github-production-release-asset-2e65be.s3.amazonaws.com
 52.217.163.105                github-production-user-asset-6210df.s3.amazonaws.com
@@ -60,7 +60,7 @@
 
 # Please Star: https://github.com/isevenluo/github-hosts
 # Please Star: https://gitee.com/isevenluo/github-hosts
-# Update at: 2022年3月25日 上午8:49:20
+# Update at: 2022年3月25日 下午1:59:06
 
 # GitHub Host End
 ```
