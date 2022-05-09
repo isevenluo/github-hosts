@@ -22,7 +22,7 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2022年5月8日 下午7:57:58
+内容定时更新，最近更新时间：2022年5月9日 上午11:49:02
 
 ```javascript
 # GitHub Host Start
@@ -30,7 +30,7 @@
 
 # Please Star: https://github.com/isevenluo/github-hosts
 # Please Star: https://gitee.com/isevenluo/github-hosts
-# Update at: 2022年5月8日 下午7:57:58
+# Update at: 2022年5月9日 上午11:49:02
 
 # GitHub Host End
 ```
