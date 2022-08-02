@@ -1,4 +1,4 @@
-#! /bin/sh
+#! /bin/zsh
 source ~/.zshrc
 # 记录脚本开始执行时间
 echo '========= githubHosts任务开始执行时间 ======' `date` >> ./runLog
