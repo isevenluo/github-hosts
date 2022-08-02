@@ -11,7 +11,7 @@ echo '完成时间：' `date` >> ./runLog
 
 git status
 git add .
-git commit -m "更新hosts"
+git commit -m "updated latest hosts"
 git push
 echo '!!! push success ！！！时间：' `date` >> ./runLog
 
