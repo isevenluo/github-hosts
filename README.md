@@ -22,28 +22,15 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2022年10月6日 下午6:05:49
+内容定时更新，最近更新时间：2022年10月8日 上午12:07:00
 
 ```javascript
 # GitHub Host Start
 
-dns1.p01.nsone.net            avatars1.githubusercontent.com
-dns1.p01.nsone.net            avatars0.githubusercontent.com
-dns1.p01.nsone.net            avatars.githubusercontent.com
-140.82.112.4                  codeload.github.com
-72.21.206.80                  github-cloud.s3.amazonaws.com
-72.21.206.80                  github-com.s3.amazonaws.com
-72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
-72.21.206.80                  github-production-user-asset-6210df.s3.amazonaws.com
-72.21.206.80                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-185.199.108.153               githubstatus.com
-140.82.112.18                 github.community
-dns1.p01.nsone.net            media.githubusercontent.com
-dns1.p01.nsone.net            objects.githubusercontent.com
 
 # Please Star: https://github.com/isevenluo/github-hosts
 # Please Star: https://gitee.com/isevenluo/github-hosts
-# Update at: 2022年10月6日 下午6:05:49
+# Update at: 2022年10月8日 上午12:07:00
 
 # GitHub Host End
 ```
