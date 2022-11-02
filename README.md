@@ -22,7 +22,7 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2022年11月2日 上午9:00:00
+内容定时更新，最近更新时间：2022年11月2日 下午3:32:04
 
 ```javascript
 # GitHub Host Start
@@ -61,7 +61,7 @@ dns1.p01.nsone.net            objects.githubusercontent.com
 
 # Please Star: https://github.com/isevenluo/github-hosts
 # Please Star: https://gitee.com/isevenluo/github-hosts
-# Update at: 2022年11月2日 上午9:00:00
+# Update at: 2022年11月2日 下午3:32:04
 
 # GitHub Host End
 ```
