@@ -15,29 +15,27 @@
 本项目会实时更新最新的 `hosts` , 你不用在每次去网上找那些可能已经过期的，所以给个 `star` 不迷路。
 
 - 站点地址：[https://github.com/isevenluo/github-hosts](https://github.com/isevenluo/github-hosts)
-- 国内备用站点：[https://gitee.com/isevenluo/github-hosts](https://gitee.com/isevenluo/github-hosts)
-
 
 ## 使用方法
 
 ### hosts
 
-内容定时更新，最近更新时间：2022年11月15日 上午11:33:35
+内容定时更新，最近更新时间：2022年11月15日 下午5:48:41
 
 ```javascript
 # GitHub Host Start
 
 dns1.p02.nsone.net            github.githubassets.com
-140.82.112.3                  central.github.com
+140.82.113.3                  central.github.com
 dns1.p01.nsone.net            desktop.githubusercontent.com
-140.82.112.3                  assets-cdn.github.com
+140.82.113.3                  assets-cdn.github.com
 dns1.p01.nsone.net            camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
-140.82.112.3                  gist.github.com
+140.82.113.3                  gist.github.com
 185.199.108.153               github.io
-140.82.112.3                  github.com
-140.82.112.3                  api.github.com
+140.82.113.3                  github.com
+140.82.113.3                  api.github.com
 dns1.p01.nsone.net            raw.githubusercontent.com
 dns1.p01.nsone.net            user-images.githubusercontent.com
 dns1.p01.nsone.net            favicons.githubusercontent.com
@@ -48,7 +46,7 @@ dns1.p01.nsone.net            avatars2.githubusercontent.com
 dns1.p01.nsone.net            avatars1.githubusercontent.com
 dns1.p01.nsone.net            avatars0.githubusercontent.com
 dns1.p01.nsone.net            avatars.githubusercontent.com
-140.82.112.3                  codeload.github.com
+140.82.113.3                  codeload.github.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
 72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
@@ -60,8 +58,7 @@ dns1.p01.nsone.net            media.githubusercontent.com
 dns1.p01.nsone.net            objects.githubusercontent.com
 
 # Please Star: https://github.com/isevenluo/github-hosts
-# Please Star: https://gitee.com/isevenluo/github-hosts
-# Update at: 2022年11月15日 上午11:33:35
+# Update at: 2022年11月15日 下午5:48:41
 
 # GitHub Host End
 ```
@@ -126,7 +123,7 @@ ipconfig /flushdns
 
 - Hosts类型：远程
 - Hosts标题：github-hosts（自定义即可）
-- URL：[https://gitee.com/isevenluo/github-hosts/raw/master/hosts](https://gitee.com/isevenluo/github-hosts/raw/master/hosts)
+- URL：[https://github.com/isevenluo/github-hosts/raw/master/hosts](https://github.com/isevenluo/github-hosts/raw/master/hosts)
 - 自动刷新：1小时
 
 <img src="https://cdn.jsdelivr.net/gh/isevenluo/pic-bed@master/img/20210428221655.png" style="zoom: 50%;" />
