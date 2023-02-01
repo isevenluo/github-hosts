@@ -24,10 +24,10 @@
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars.githubusercontent.com
 140.82.114.9                  codeload.github.com
-3.5.10.158                    github-cloud.s3.amazonaws.com
-3.5.17.140                    github-com.s3.amazonaws.com
+3.5.8.181                     github-cloud.s3.amazonaws.com
+3.5.3.117                     github-com.s3.amazonaws.com
 3.5.10.213                    github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.7.166                     github-production-user-asset-6210df.s3.amazonaws.com
+3.5.10.182                    github-production-user-asset-6210df.s3.amazonaws.com
 3.5.17.0                      github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153               githubstatus.com
 140.82.112.18                 github.community
@@ -38,6 +38,6 @@
 185.199.108.133               objects.githubusercontent.com
 
 # Please Star: https://github.com/isevenluo/github-hosts
-# Update at: 2023年1月31日 下午4:41:17
+# Update at: 2023年2月1日 上午10:14:01
 
 # GitHub Host End
