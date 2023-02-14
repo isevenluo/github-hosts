@@ -20,7 +20,7 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2023年2月14日 上午8:33:23
+内容定时更新，最近更新时间：2023年2月14日 下午3:00:17
 
 ```javascript
 # GitHub Host Start
@@ -61,7 +61,7 @@
 185.199.108.133               objects.githubusercontent.com
 
 # Please Star: https://github.com/isevenluo/github-hosts
-# Update at: 2023年2月14日 上午8:33:23
+# Update at: 2023年2月14日 下午3:00:17
 
 # GitHub Host End
 ```
