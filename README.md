@@ -20,15 +20,17 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2023年3月8日 上午11:37:17
+内容定时更新，最近更新时间：2023年3月8日 下午5:42:22
 
 ```javascript
 # GitHub Host Start
 
-20.80.64.28                   copilot-proxy.githubusercontent.com
+185.199.108.133               cloud.githubusercontent.com
+13.107.43.16                  pipelines.actions.githubusercontent.com
+185.199.108.133               objects.githubusercontent.com
 
 # Please Star: https://github.com/isevenluo/github-hosts
-# Update at: 2023年3月8日 上午11:37:17
+# Update at: 2023年3月8日 下午5:42:22
 
 # GitHub Host End
 ```
