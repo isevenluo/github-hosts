@@ -4,6 +4,13 @@ source ~/.zshrc
 echo '========= githubHosts任务开始执行时间 ======' `date` >> ./runLog
 # 执行自定义的脚本，我这里是一个java代码实现
 cd ~/work/Code/VCS/github-hosts/
+FILE=target/github-hosts-1.0-SNAPSHOT.jar
+if [ test -f "$FILE" ]; then
+    echo "$FILE exist"
+else
+    mvn clean package -DskipTests
+fi
+
 java -jar target/github-hosts-1.0-SNAPSHOT.jar
 
 # 记录任务完成的时间
