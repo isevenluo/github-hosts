@@ -20,14 +20,14 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2023年11月26日 上午10:34:14
+内容定时更新，最近更新时间：2023年11月27日 上午3:07:13
 
 ```javascript
 # GitHub Host Start
 
 
 # Please Star: https://github.com/isevenluo/github-hosts
-# Update at: 2023年11月26日 上午10:34:14
+# Update at: 2023年11月27日 上午3:07:13
 
 # GitHub Host End
 ```
